@@ -72,6 +72,7 @@ ul li {
     color: red;
     transition: all .5s ease;
     cursor: pointer;
+    margin-right: 1rem;
 }
 
 .close-btn:hover {
